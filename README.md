@@ -1,8 +1,8 @@
 # Taller 9 (Laboratorio)
-INTEGRANTES: JAVIER VIÑAN
-            KENNY PAREDES
-            BRYAN VILLA
-            CARLOS CORREA
+INTEGRANTES: -JAVIER VIÑAN
+            -KENNY PAREDES
+            -BRYAN VILLA
+            -CARLOS CORREA
 ## Construcción de programas usando arreglos unidimensionales
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
