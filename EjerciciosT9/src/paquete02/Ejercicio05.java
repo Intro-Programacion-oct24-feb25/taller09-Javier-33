@@ -26,7 +26,7 @@ public class Ejercicio05 {
         dias[4] = "Viernes";
         double[] ventas = new double[5];
         for(int i = 0; i < dias.length; i++){
-            System.out.printf("Ingrese la venta de cada dia %s\n", dias[i]);
+            System.out.printf("Ingrese la venta del dia %s\n", dias[i]);
             ventas[i] = entrada.nextDouble();
             
             
